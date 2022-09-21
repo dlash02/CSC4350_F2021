@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 HEllo from dlash
 Hello from Kels
+=======
+HEllo from nic boes
+Hello from From me again
+>>>>>>> c775936b56c541ac01a4a4085ef8d4a98c95fe4b
