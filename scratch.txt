@@ -1,12 +1,5 @@
-<<<<<<< Updated upstream
 HEllo from nic boes
-=======
-<<<<<<< HEAD
 HEllo from Cristian
-=======
-HEllo from nic boes
->>>>>>> c775936b56c541ac01a4a4085ef8d4a98c95fe4b
->>>>>>> Stashed changes
 Hello from From me again
 Hi - Kelsey
 >>>>>>> d6597c00c6565cfa757e015b4a2350d9a12886f7
